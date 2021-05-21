@@ -12,6 +12,17 @@ Dentro do projeto existe duas classes, **Conta** e **Banco**, onde **Conta** é 
 ## Como executar o projeto 
 Basta executar a classe **Banco.java** e a mesma dará início a simulação disponibilizando todos os resultados em um terminal de saída.
 
+1 - Compilar o arquivo principal: 
+
+````bash
+javac Banco.java
+````
+
+2 - Executar o arquivo então compilado
+````bash
+java Banco
+````
+
 ## Equipe 
 - Jailson Soares
 - Luís Eduardo
